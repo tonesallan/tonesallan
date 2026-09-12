@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
-  <title id="title">Tecnologias de Tones Allan</title>
-  <desc id="desc">Principais tecnologias usadas nos projetos.</desc>
+  <title id="title">Tones Allan technologies</title>
+  <desc id="desc">Main technologies used across projects.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -8,8 +8,8 @@
     </linearGradient>
   </defs>
   <rect width="720" height="180" rx="16" fill="url(#bg)" stroke="#30363d"/>
-  <text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Stack e ferramentas</text>
-  <text x="30" y="73" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8b949e">Tecnologias aplicadas em projetos de automação, bots, web e mobile</text>
+  <text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Stack &amp; tools</text>
+  <text x="30" y="73" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8b949e">Technologies used in automation, bots, web, and mobile projects</text>
   <line x1="30" y1="94" x2="690" y2="94" stroke="#30363d"/>
   <text x="30" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f0f6fc">Java • JavaScript • Node.js • Dart • Flutter</text>
   <text x="30" y="152" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f0f6fc">HTML • CSS • SQLite • Git • GitHub • Excel</text>
