@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Perfil profissional de Tones Allan</title>
+  <desc id="desc">Resumo das áreas de atuação e desenvolvimento.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="180" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Tones Allan</text>
+  <text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8b949e">Contabilidade + tecnologia + automação</text>
+  <line x1="30" y1="92" x2="690" y2="92" stroke="#30363d"/>
+  <text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#58a6ff">FOCO</text>
+  <text x="105" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#c9d1d9">Automação • Bots • Apps • Ferramentas de produtividade</text>
+  <text x="30" y="151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#3fb950">OBJETIVO</text>
+  <text x="115" y="151" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#c9d1d9">Resolver problemas reais com soluções simples e utilizáveis</text>
+</svg>
