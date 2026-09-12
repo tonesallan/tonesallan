@@ -72,12 +72,15 @@ Meu foco é construir ferramentas que realmente sejam usadas, melhoradas continu
 
 ---
 
-## 📊 GitHub
+## 📊 Perfil técnico
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tonesallan&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Tones Allan" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonesallan&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Tones Allan" />
+<img src="assets/profile-card.svg" width="100%" alt="Resumo profissional de Tones Allan" />
+
+<br>
+
+<img src="assets/stack-card.svg" width="100%" alt="Tecnologias e ferramentas de Tones Allan" />
 
 </div>
 
