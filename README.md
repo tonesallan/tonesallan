@@ -1,26 +1,26 @@
 <div align="center">
 
-# Olá, eu sou Tones Allan 👋
+# Hi, I'm Tones Allan 👋
 
-### Ciências Contábeis • Departamento Pessoal • Automação • Desenvolvimento de Software
+### Accounting • Payroll & Personnel Administration • Automation • Software Development
 
-Transformo rotinas repetitivas e problemas do dia a dia em **ferramentas, bots e aplicações práticas**.
+I turn repetitive routines and everyday problems into **practical tools, bots, and applications**.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-- 🎓 Estudante de **Ciências Contábeis**.
-- 💼 Atuo com rotinas de **Departamento Pessoal**, folha, eSocial e processos trabalhistas.
-- ⚙️ Desenvolvo soluções para **automatizar tarefas**, reduzir retrabalho e organizar processos.
-- 🤖 Trabalho com bots, integrações, aplicações web, aplicativos mobile e ferramentas para produtividade.
-- 🧩 Gosto de transformar uma necessidade real em uma solução simples, utilizável e evolutiva.
+- 🎓 **Accounting** student.
+- 💼 I work with **payroll and personnel administration**, eSocial, labor routines, and related processes.
+- ⚙️ I build solutions to **automate tasks**, reduce rework, and organize workflows.
+- 🤖 I work with bots, integrations, web applications, mobile apps, and productivity tools.
+- 🧩 I like turning a real need into a simple, useful, and continuously improving solution.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies & tools
 
 <div align="center">
 
@@ -40,47 +40,47 @@ Transformo rotinas repetitivas e problemas do dia a dia em **ferramentas, bots e
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Featured project
 
 ### 🤝 [AmigoNPC](https://github.com/tonesallan/AmigoNPC-)
 
-Mod server-side para **Hytale** que adiciona um NPC companheiro inteligente, persistente e configurável para cada jogador.
+A server-side **Hytale** mod that adds an intelligent, persistent, and configurable companion NPC for each player.
 
-O projeto envolve:
+The project includes:
 
-- Java e arquitetura baseada em ECS;
-- combate e comportamento de NPCs;
-- persistência de dados;
-- inventário, progressão e experiência;
-- interfaces personalizadas;
-- comandos e configurações server-side;
-- desenvolvimento defensivo para acompanhar mudanças da API do jogo.
-
----
-
-## 🔧 O que estou construindo
-
-Além dos projetos públicos, mantenho projetos privados voltados a problemas reais do dia a dia, incluindo:
-
-- 🤖 automação de divulgação e mensageria;
-- 📊 ferramentas para rotinas de folha e Departamento Pessoal;
-- 📱 aplicativos em Flutter;
-- 🧾 automações de planilhas e processos administrativos;
-- 🔌 integrações entre APIs, bancos de dados e serviços externos.
-
-Meu foco é construir ferramentas que realmente sejam usadas, melhoradas continuamente e resolvam uma necessidade concreta.
+- Java and ECS-based architecture;
+- NPC combat and behavior systems;
+- data persistence;
+- inventory, progression, and experience systems;
+- custom interfaces;
+- server-side commands and settings;
+- defensive development practices to keep up with changes in the game API.
 
 ---
 
-## 📊 Perfil técnico
+## 🔧 What I'm building
+
+Alongside my public projects, I maintain private projects focused on solving real-world day-to-day problems, including:
+
+- 🤖 messaging and promotional automation;
+- 📊 tools for payroll and personnel administration workflows;
+- 📱 Flutter applications;
+- 🧾 spreadsheet and administrative process automation;
+- 🔌 integrations between APIs, databases, and external services.
+
+My focus is on building tools that are actually used, continuously improved, and designed to solve a concrete need.
+
+---
+
+## 📊 Technical profile
 
 <div align="center">
 
-<img src="assets/profile-card.svg" width="100%" alt="Resumo profissional de Tones Allan" />
+<img src="assets/profile-card.svg" width="100%" alt="Tones Allan professional profile summary" />
 
 <br>
 
-<img src="assets/stack-card.svg" width="100%" alt="Tecnologias e ferramentas de Tones Allan" />
+<img src="assets/stack-card.svg" width="100%" alt="Tones Allan technologies and tools" />
 
 </div>
 
@@ -88,8 +88,8 @@ Meu foco é construir ferramentas que realmente sejam usadas, melhoradas continu
 
 <div align="center">
 
-### 💡 Contabilidade + tecnologia + automação
+### 💡 Accounting + technology + automation
 
-**Menos trabalho repetitivo. Mais processo bem resolvido.**
+**Less repetitive work. Better-designed processes.**
 
 </div>
